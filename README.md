@@ -82,6 +82,3 @@ Jupyter Notebook
 📜 License
 
 This project is open-source and available under the MIT License.
-
-
-If you want, I can also give you a **requirements.txt** file for your project so it installs perfectly when others clone it. That will make your GitHub repo more professional.
